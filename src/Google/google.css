@@ -1,0 +1,14 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+.group-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 60%;
+  margin: auto;
+  margin-top: 50px;
+}
